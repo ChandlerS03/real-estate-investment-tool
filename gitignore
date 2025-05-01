@@ -1,0 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# Mac OS files
+.DS_Store
+
+# Streamlit logs
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Windows thumbnail cache
+Thumbs.db
+
+# VS Code
+.vscode/
